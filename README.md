@@ -1,3 +1,3 @@
-# Headline
+# Lumoz Studio
 
 > An awesome project.
